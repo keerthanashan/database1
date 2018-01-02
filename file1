@@ -1,1 +1,4 @@
+create table keerthi(name varchar(20),age int);
+insert into keerthi('keer',20);
 select * from table_name;
+
